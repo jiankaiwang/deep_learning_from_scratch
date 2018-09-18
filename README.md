@@ -15,8 +15,9 @@ The repository is the tutorial to introduce how the deep learning works and demo
 
 
 
-* MLP
-* Neural Network
-* MNIST Dataset
-* Learning in Neural Network 
-* Neural Network Assembly
+* [MLP](1_mlp.ipynb)
+* [Neural Network](2_NeuralNetwork.ipynb)
+* [MNIST Dataset](3_MNIST_NeuralNetwork.ipynb)
+* [Learning in Neural Network](4_nn_learning.ipynb)
+* [Neural Network Assembly](5_NN_Learning_Assembly.ipynb)
+
