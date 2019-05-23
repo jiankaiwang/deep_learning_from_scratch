@@ -5,7 +5,8 @@ The repository is the tutorial to introduce how the deep learning works and demo
 
 
 * Reference:
-  * https://github.com/oreilly-japan/deep-learning-from-scratch [Main] : Some material in the tutorial are referred to this repository.
+  * https://github.com/oreilly-japan/deep-learning-from-scratch
+  * <https://github.com/oreilly-japan/deep-learning-from-scratch-2>
 
 
 ## Content
@@ -21,3 +22,14 @@ The repository is the tutorial to introduce how the deep learning works and demo
 * [Advanced Learning](8_AdvancedLearning.ipynb)
 * [Convolutional Neural Network](9_CNN.ipynb)
 * [Deep Learning](10_deeplearning.ipynb)
+* [Paragraph Summary](11_ParagraphSummary.ipynb)
+* [Nature Language: Word Representation](12_NatureLanguage_WordRepresentation.ipynb)
+* [Introduction to Word2Vec](13_Word2Vec.ipynb)
+* [Advanced Word2Vec](14_Word2Vec_Adv.ipynb)
+* [RNN](15_RNN.ipynb)
+* [Gated RNN](16_GatedRNN.ipynb)
+
+*   [Seq2Seq](17_Seq2Seq.ipynb)
+
+*   [Attention](18_Attention.ipynb)
+

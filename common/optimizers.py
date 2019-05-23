@@ -42,7 +42,7 @@ class AdaGrad:
                 
         for key, val in params.items():
             self.h[key] += grads[key] * grads[key]
-            params[key] -= self.lr / np.sqrt(self.h[key] + 1e-7) * grads[key]
+            params[key] -= self.lr / (np.sqrt(self.h[key]) + 1e-7) * grads[key]
 
 class Adam:
     def __init__(self, lr=1e-3, beta1=0.9, beta2=0.999):
