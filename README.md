@@ -22,6 +22,7 @@ The repository is the tutorial to introduce how the deep learning works and demo
   * a numerical example of training: [ipynb](7_1_Simple_Loss_in_Tensorflow.ipynb)
 * [Advanced Learning](8_AdvancedLearning.ipynb)
   * Local / Glocal Minima with Optimizers: [ipynb](8_1_BasicLearning_Tensorflow.ipynb)
+  * Overfitting and Underfitting: [ipynb](8_2_Overfitting_Underfitting.ipynb)
 * [Convolutional Neural Network](9_CNN.ipynb)
 * [Deep Learning](10_deeplearning.ipynb)
 * [Paragraph Summary](11_ParagraphSummary.ipynb)
@@ -30,8 +31,6 @@ The repository is the tutorial to introduce how the deep learning works and demo
 * [Advanced Word2Vec](14_Word2Vec_Adv.ipynb)
 * [RNN](15_RNN.ipynb)
 * [Gated RNN](16_GatedRNN.ipynb)
-
-*   [Seq2Seq](17_Seq2Seq.ipynb)
-
-*   [Attention](18_Attention.ipynb)
+* [Seq2Seq](17_Seq2Seq.ipynb)
+* [Attention](18_Attention.ipynb)
 
