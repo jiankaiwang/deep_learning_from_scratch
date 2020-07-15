@@ -23,6 +23,7 @@ The repository is the tutorial to introduce how the deep learning works and demo
 * [Advanced Learning](8_AdvancedLearning.ipynb)
   * Local / Glocal Minima with Optimizers: [ipynb](8_1_BasicLearning_Tensorflow.ipynb)
   * Overfitting and Underfitting: [ipynb](8_2_Overfitting_Underfitting.ipynb)
+  * Normalization: [ipynb](8_3_Normalization.ipynb)
 * [Convolutional Neural Network](9_CNN.ipynb)
 * [Deep Learning](10_deeplearning.ipynb)
 * [Paragraph Summary](11_ParagraphSummary.ipynb)
